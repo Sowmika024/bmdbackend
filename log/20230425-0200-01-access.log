@@ -1,0 +1,6 @@
+GET /read 304 - - 14.556 ms
+GET /read 304 - - 5.089 ms
+GET /read 304 - - 6.829 ms
+GET /read 304 - - 5.108 ms
+GET /read 304 - - 4.086 ms
+GET /read 304 - - 3.752 ms
